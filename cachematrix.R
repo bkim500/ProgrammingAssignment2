@@ -1,6 +1,6 @@
 ## Below are 2 functions used to cache and calculate inverse of a matrix, respectively.
 
-## makeCacheMatrix creates a special "matrix" that will store the inverse of matrix, 'i'.
+## 'makeCacheMatrix' creates a special "matrix" that will store the inverse of matrix, 'i'.
 
 makeCacheMatrix <- function(x = matrix()) {
   i <- NULL
