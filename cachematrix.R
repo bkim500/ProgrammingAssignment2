@@ -1,4 +1,5 @@
-## Below are 2 functions used to cache and calculate inverse of a matrix, respectively.
+## Below are 2 functions used to cache and calculate inverse of a matrix.
+
 
 ## 'makeCacheMatrix' creates a special "matrix" that will store the inverse of matrix, 'i'.
 
